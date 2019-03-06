@@ -1,0 +1,10 @@
+2019-03-06T05:43:58.119Z : Starting wallet transaction processor
+2019-03-06T05:43:58.119Z : Connecting to Sawtooth validator at tcp://localhost:4004
+2019-03-06T05:52:03.954Z : Wallet Handler called ...
+2019-03-06T05:52:03.968Z : Create Wallet called with value 42
+2019-03-06T05:52:03.968Z : Set Entry called with value [object Object]
+2019-03-06T05:52:03.977Z : Action result is 
+2019-03-06T05:52:06.251Z : Wallet Handler called ...
+2019-03-06T05:52:06.255Z : Create Wallet called with value 42
+2019-03-06T05:52:06.255Z : Set Entry called with value [object Object]
+2019-03-06T05:52:06.259Z : Action result is 
